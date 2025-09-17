@@ -1,4 +1,4 @@
-#  Hospitality Data Analysis Project
+#  Hospitality Data Analysis Project w/ Power BI
 
 ![Dashboard Page 1](/Images/Screenshot%202025-09-17%20125919.png)
 
