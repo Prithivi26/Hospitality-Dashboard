@@ -2,7 +2,7 @@
 
 ![Dashboard Page 1](/Images/Screenshot%202025-09-17%20125919.png)
 
-
+[View interactive dashboard here on the Power BI Service](https://shorturl.at/uhxYM)
 
 ---
 
